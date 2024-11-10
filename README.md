@@ -26,5 +26,7 @@ The application is built using:
 ## Output link:
 https://gunanadeepthi.github.io/CODETECH-Task2/ 
 ## Output:
+
+![image](https://github.com/user-attachments/assets/0538b4bc-51fb-4da5-8a6d-cae440806a20)
 ![image](https://github.com/user-attachments/assets/db59ce96-de3b-4d14-ad86-ce48456ed630)
 
